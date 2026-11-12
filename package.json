@@ -1,0 +1,26 @@
+{
+  "name": "midterm-20250040219-djiegui-soukouna",
+  "version": "1.0.0",
+  "description": "SD Commerce - Online Shop REST API built with Node.js and Express 5 for PBP Midterm Exam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express5",
+    "rest-api",
+    "sd-commerce",
+    "online-shop",
+    "pbp-midterm"
+  ],
+  "author": "Djiegui Soukouna (NIM: 20250040219)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
